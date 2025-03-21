@@ -1,5 +1,23 @@
-# 人工智能引论lab解答  
-这里包括了python练习（lab0），搜索（lab1），机器学习-以MLP和图像识别为主（lab2），机器学习-以Transformer和文本检索情感分类为主（lab3），机器人定位和路径规划（lab4）。
-人工智能引论在课程改革之前比较难评，但是课程改革之后是一门好课。尤其是lab的设计非常用心（难度不小），使我在写lab的时候痛并快乐着。  
-需要注意，这是一门许多本科生初步接触AI的课程，所以强烈建议独立完成这项作业，在训练和调参的过程中更加深刻地体会“AI之美”。
-当然，这个repo的初衷是记录我的学习经历。如果能帮助到大家我将不胜荣幸。
+# 🌟 Introduction to AI Labs - Solutions & Learning Journey
+
+Welcome to my **Introduction to Artificial Intelligence (AI) Labs** repository! 🚀 This repository documents my learning experience and solutions for the AI course labs.
+
+## 📂 Lab Structure
+This course consists of multiple hands-on labs covering essential AI concepts:
+
+- **[Lab 0](./lab0/)** - Python exercises 🐍
+- **[Lab 1](./lab1/)** - Search algorithms 🔍
+- **[Lab 2](./lab2/)** - Machine Learning: MLP & Image Recognition 🖼️
+- **[Lab 3](./lab3/)** - Machine Learning: Transformers & Sentiment Classification 📝
+- **[Lab 4](./lab4/)** - Robotics: Localization & Path Planning 🤖
+
+## 🎯 About This Course
+This **Introduction to AI** course was once considered difficult to grade, but after curriculum reforms, it has become an engaging and well-structured course. The labs are thoughtfully designed and **challenging yet rewarding**, making me experience both frustration and joy while working through them.
+
+Since this course is often the **first exposure to AI** for many undergraduate students, I strongly encourage **completing the assignments independently**. Training models and fine-tuning hyperparameters firsthand will deepen your appreciation of the **beauty of AI**. ✨
+
+## 🙌 Purpose of This Repository
+The primary goal of this repository is to **document my learning journey**. However, if it can also serve as a helpful resource for others, I would be truly honored! Feel free to explore, but remember: **understanding AI comes best through hands-on experience!** 💡
+
+Happy coding! 🚀
+
